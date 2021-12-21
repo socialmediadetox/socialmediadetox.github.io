@@ -1,10 +1,10 @@
-title: Magic's Repo
-email: magicoflolis@tuta.io
+title: socialmediadetox
+email:  socialmediadetox@tuta.io
 description: >- # this means to ignore newlines until "baseurl:"
   Repo list
-domain: magicoflolis.github.io
+domain: socialmediadetox.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://magicoflolis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://socialmediadetox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:slug.html
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -13,7 +13,7 @@ twitter:
     username: for_lollipops # update or delete this
     card: summary_large_image
 
-github_username:  magicoflolis
+github_username:  socialmediadetox
 
 # theme: moonwalk
 
